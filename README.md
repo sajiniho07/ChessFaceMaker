@@ -33,7 +33,7 @@ The following tools were used in this project:
 
 The face detection feature of this code is based on OpenCV's Haar Cascades. The chess filter is an implementation of Gaussian filtering using OpenCV.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Sajad Kamali</a>
+Made with :heart: by <a href="https://github.com/sajiniho07" target="_blank">Sajad Kamali</a>
 
 &#xa0;
 
