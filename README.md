@@ -29,6 +29,10 @@ The following tools were used in this project:
 
 2- Install OpenCV by running pip install opencv-python-headless
 
+## Example
+
+![sample](https://github.com/sajiniho07/ChessFaceMaker/blob/master/res/output.gif)
+
 ## License ##
 
 The face detection feature of this code is based on OpenCV's Haar Cascades. The chess filter is an implementation of Gaussian filtering using OpenCV.
